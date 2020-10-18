@@ -1,0 +1,1 @@
+![Alt text](./public/images/home.svg?raw=true "Index Page")
