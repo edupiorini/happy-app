@@ -110,7 +110,7 @@ a.create-orphanage:hover {
     display: none;
 }
 
-.leaflet-containter{
+.leaflet-container{
     font: 700 2rem/1 'Nunito', sans-serif;
 
     z-index: 5;
