@@ -1,6 +1,6 @@
 //import dependencies
-const express = require("express");
-const path = require("path");
+const express = require('express');
+const path = require('path');
 
 //init expŕess
 const server = express();
@@ -14,9 +14,9 @@ server
     .set('view engine', 'hbs')
 
     //create path
-    .get("/", (request, response) => {
-        return response.render('index');
-    })
+    .get('/', (request, response) => {
+        return response.render('index')
+    });
 
     //start server
-    .listen(5500);
+    server.listen(5500);
