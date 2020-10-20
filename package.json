@@ -1,7 +1,7 @@
 {
   "name": "NLW",
   "version": "1.0.0",
-  "description": "![Alt text](./public/images/happy-index.png?raw=true \"Index Page\")   ![Alt text](./public/images/happy-orphanages-loc.png?raw=true \"Orphanages locations page\")",
+  "description": "![Alt text](/images/happy-index.png?raw=true \"Index Page\")   ![Alt text](/images/happy-orphanages-loc.png?raw=true \"Orphanages locations page\")",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/server.js"
